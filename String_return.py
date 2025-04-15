@@ -3,5 +3,4 @@ def FullName():
     SecondName=input("Enter ur Second Name:")
     return firstName + " " + SecondName
 
-
 print(FullName())
